@@ -10,6 +10,10 @@ Track B - Unsupervised learning
 1. English
 2. Hindi
 
+Track C - Cross-linguistic learning
+1. Spanish to English
+2. English to Hindi 
+
 Team CAILMD-23
 Members:
 1. Srushti Sonavane
