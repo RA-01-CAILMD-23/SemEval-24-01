@@ -16,8 +16,8 @@ Track C - Cross-linguistic learning
 
 Team CAILMD-23
 Members:
-1. Srushti Sonavane
-2. Advait Naik
-3. Pritika Rohera
-4. Ridhima Sinare
-5. Sharvi Endait
+1. Sharvi Endait
+3. Srushti Sonavane
+4. Pritika Rohera
+5. Ridhima Sinare
+6. Advait Naik
